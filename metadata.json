@@ -1,0 +1,6 @@
+{
+  "name": "BK Mobile Detailing",
+  "description": "Premier mobile auto spa in Lancaster County, PA founded by Brady Knaple. Fully autonomous mobile rig with onboard deionized water and power serving Landisville, Lititz, Lancaster, and surrounding areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
